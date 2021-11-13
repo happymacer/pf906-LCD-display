@@ -5,6 +5,6 @@ Im using the Arduino code kindly written by MartyMacGyver (https://github.com/Ma
 
 Next I want to do a video on working out the connections and control of the larger display but I'll put that separate to this one when I get around to that.
 
-My Youtube video is located at ...
+My Youtube video is located at ...https://youtu.be/MFptCfe7_l4
 
 Have Fun!
